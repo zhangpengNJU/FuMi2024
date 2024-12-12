@@ -1,0 +1,30 @@
+{
+  "1.11.0a0+gitbc3c6ed": {
+    "end_line": 889,
+    "final_str": "from . import return_types\\n"
+  },
+  "2.0.1+cu117": {
+    "end_line": 1488,
+    "final_str": "    return torch.sparse_coo_tensor(*args, **kwargs)\\n"
+  },
+  "1.13.0+cu117": {
+    "end_line": 970,
+    "final_str": "    csan.enable_cuda_sanitizer()\\n"
+  },
+  "2.0.1": {
+    "end_line": 1488,
+    "final_str": "    return torch.sparse_coo_tensor(*args, **kwargs)\n"
+  },
+
+  "2.1.0": {
+    "end_line": 1836,
+    "final_str": "_logging._init_logs()\n"
+  },
+   
+  "2.3.0+cu121": {
+    "end_line": 2038,
+    "final_str": "_logging._init_logs()\n"
+  }
+
+
+}
